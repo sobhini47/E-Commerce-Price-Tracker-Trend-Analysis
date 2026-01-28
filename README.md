@@ -35,16 +35,16 @@ This project focuses on Flipkart Earbuds and helps users identify:
 
 E-Commerce-Price-Tracker-Trend-Analysis/
 │
-├── app.py                         # Streamlit dashboard
-├── task1.py                       # Web scraping
-├── task2.py                       # Data cleaning
-├── task3.py                       # Data transformation
-├── task4.py                       # Analysis
-├── task5.py                       # Additional processing
-├── ecommerce_data.csv             # Raw scraped data
-├── ecommerce_data_cleaned.csv     # Cleaned dataset
-├── requirements.txt               # Project dependencies
-├── README.md                      # Project documentation
+├── app.py
+├── task1.py
+├── task2.py
+├── task3.py
+├── task4.py
+├── task5.py
+├── ecommerce_data.csv
+├── ecommerce_data_cleaned.csv
+├── requirements.txt
+├── README.md
 
 ---
 
