@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pandas
+lxml
+pandas
+matplotlib
+streamlit
+seaborn
